@@ -1,3 +1,12 @@
+### 🛍️ Store Page (Next.js + TypeScript)
+
+This is my first project built with Next.js and TypeScript.
+
+- 🧱 Built a responsive store page
+- ⚙️ Server-side rendering & routing with Next.js
+- 🧠 Focused on functionality and clean code
+- 🧪 A foundation for deeper learning in full-stack React development
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
